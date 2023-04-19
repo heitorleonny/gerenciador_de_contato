@@ -5,5 +5,7 @@ Ao abrir o programa, você verá uma janela com campos para inserir as informaç
 
 Para utilizar o programa, basta executar o código em um ambiente Python com a biblioteca PySimpleGUI instalada. É importante lembrar que, ao clicar no botão de fechar a janela, o programa será encerrado.
 
+O código está disponível na branch master.
+
 ![image](https://user-images.githubusercontent.com/108541219/232934966-eb7ab34e-9fb6-480e-9015-b20b36b65ea4.png)
 
